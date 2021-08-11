@@ -1,5 +1,13 @@
 ![mpv logo](https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png)
 
+# My (this fork's) changes
+
+Changed top/bottom bar (removed buttons on the right to give more room
+to the seekbar):
+![New bar](etc/new_bottom_bar.png)
+
+You can also look at my OSC config
+
 # mpv
 
 
