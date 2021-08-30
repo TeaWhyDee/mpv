@@ -29,7 +29,7 @@ You can also look at my OSC config
 
 * [Wiki](https://github.com/mpv-player/mpv/wiki)
 * [FAQ][FAQ]
-* [Manual](http://mpv.io/manual/master/)
+* [Manual](https://mpv.io/manual/master/)
 
 
 ## Overview
@@ -61,7 +61,7 @@ Releases can be found on the [release list][releases].
 
 
 For semi-official builds and third-party packages please see
-[mpv.io/installation](http://mpv.io/installation/).
+[mpv.io/installation](https://mpv.io/installation/).
 
 ## Changelog
 
